@@ -1,10 +1,3 @@
-# SLD_LBM
-Solid Lattice Boltzmann Method. Research library. PALABOS dependencies.
+Please e-mail us: tristan.maquart@emse.fr; navarro@emse.fr or tristan.maquart@hotmail.fr if you want a copy of the library.
 
-# SLD LBM for the impatient
-
-# Install
-
-# Test cases
-
-# References
+Sources are not public for the moment.
