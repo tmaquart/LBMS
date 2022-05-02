@@ -1,0 +1,4 @@
+Please cite our work:
+
+Toward a Lattice Boltzmann Method for Solids - Application to Static Equilibrium of Isotropic Materials, T. MAQUART, R. NOEL, G. COURBEBAISSE, L. NAVARRO,
+Applied Sciences, 2022.
